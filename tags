@@ -1,0 +1,125 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/d5bcb52b/
+---	themes/hugo-theme-minima/archetypes/default.md	/^---$/;"	s
+Blockquote with attribution	content/markdown-syntax.md	/^#### Blockquote with attribution$/;"	t
+Blockquote with attribution	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Blockquote with attribution$/;"	t
+Blockquote without attribution	content/markdown-syntax.md	/^#### Blockquote without attribution$/;"	t
+Blockquote without attribution	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Blockquote without attribution$/;"	t
+Blockquotes	content/markdown-syntax.md	/^## Blockquotes$/;"	s
+Blockquotes	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## Blockquotes$/;"	s
+Code Blocks	content/markdown-syntax.md	/^## Code Blocks$/;"	s
+Code Blocks	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## Code Blocks$/;"	s
+Code block indented with four spaces	content/markdown-syntax.md	/^#### Code block indented with four spaces$/;"	t
+Code block indented with four spaces	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block indented with four spaces$/;"	t
+Code block with C艹	content/markdown-syntax.md	/^#### Code block with C艹$/;"	t
+Code block with C艹	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block with C艹$/;"	t
+Code block with Golang	content/markdown-syntax.md	/^#### Code block with Golang$/;"	t
+Code block with Golang	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block with Golang$/;"	t
+Code block with Java	content/markdown-syntax.md	/^#### Code block with Java$/;"	t
+Code block with Java	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block with Java$/;"	t
+Code block with Python	content/markdown-syntax.md	/^#### Code block with Python$/;"	t
+Code block with Python	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block with Python$/;"	t
+Code block with backticks	content/markdown-syntax.md	/^#### Code block with backticks$/;"	t
+Code block with backticks	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Code block with backticks$/;"	t
+Configuration	content/instruction.md	/^### Configuration$/;"	S
+Configuration	themes/hugo-theme-minima/README.md	/^### Configuration$/;"	S
+Configuration	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^### Configuration$/;"	S
+Examples	content/math-typesetting.md	/^### Examples$/;"	S
+Examples	themes/hugo-theme-minima/exampleSite/content/math-typesetting.md	/^### Examples$/;"	S
+External Link Post	themes/hugo-theme-minima/README.md	/^### External Link Post$/;"	S
+Features	content/instruction.md	/^## Features$/;"	s
+Features	themes/hugo-theme-minima/README.md	/^## Features$/;"	s
+Features	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^## Features$/;"	s
+Feedback	content/instruction.md	/^### Feedback$/;"	S
+Feedback	themes/hugo-theme-minima/README.md	/^### Feedback$/;"	S
+Feedback	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^### Feedback$/;"	S
+H1	content/markdown-syntax.md	/^# H1$/;"	c
+H1	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^# H1$/;"	c
+H2	content/markdown-syntax.md	/^## H2$/;"	s
+H2	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## H2$/;"	s
+H3	content/markdown-syntax.md	/^### H3$/;"	S
+H3	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^### H3$/;"	S
+H4	content/markdown-syntax.md	/^#### H4$/;"	t
+H4	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### H4$/;"	t
+H5	content/markdown-syntax.md	/^##### H5$/;"	T
+H5	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^##### H5$/;"	T
+H6	content/markdown-syntax.md	/^###### H6$/;"	u
+H6	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^###### H6$/;"	u
+Headings	content/markdown-syntax.md	/^## Headings$/;"	s
+Headings	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## Headings$/;"	s
+Inline Markdown within tables	content/markdown-syntax.md	/^#### Inline Markdown within tables$/;"	t
+Inline Markdown within tables	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Inline Markdown within tables$/;"	t
+Installation	content/instruction.md	/^### Installation$/;"	S
+Installation	themes/hugo-theme-minima/README.md	/^### Installation$/;"	S
+Installation	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^### Installation$/;"	S
+List Types	content/markdown-syntax.md	/^## List Types$/;"	s
+List Types	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## List Types$/;"	s
+Mane refeci capiebant unda mulcebat	content/placeholder-text.md	/^## Mane refeci capiebant unda mulcebat$/;"	s
+Mane refeci capiebant unda mulcebat	themes/hugo-theme-minima/exampleSite/content/placeholder-text.md	/^## Mane refeci capiebant unda mulcebat$/;"	s
+Minima	themes/hugo-theme-minima/README.md	/^# Minima$/;"	c
+Minima	themes/hugo-theme-minima/docs/README_CN.md	/^# Minima$/;"	c
+Nested list	content/markdown-syntax.md	/^#### Nested list$/;"	t
+Nested list	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Nested list$/;"	t
+Ordered List	content/markdown-syntax.md	/^#### Ordered List$/;"	t
+Ordered List	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Ordered List$/;"	t
+Paragraph	content/markdown-syntax.md	/^## Paragraph$/;"	s
+Paragraph	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## Paragraph$/;"	s
+RSS Feeds	themes/hugo-theme-minima/README.md	/^### RSS Feeds$/;"	S
+RSS Feeds	themes/hugo-theme-minima/docs/README_CN.md	/^### RSS Feeds$/;"	S
+Supported Front Matters	content/instruction.md	/^### Supported Front Matters$/;"	S
+Supported Front Matters	themes/hugo-theme-minima/README.md	/^### Supported Front Matters$/;"	S
+Supported Front Matters	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^### Supported Front Matters$/;"	S
+Tables	content/markdown-syntax.md	/^## Tables$/;"	s
+Tables	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^## Tables$/;"	s
+Unordered List	content/markdown-syntax.md	/^#### Unordered List$/;"	t
+Unordered List	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^#### Unordered List$/;"	t
+Usage	content/instruction.md	/^## Usage$/;"	s
+Usage	themes/hugo-theme-minima/README.md	/^## Usage$/;"	s
+Usage	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^## Usage$/;"	s
+Vagus elidunt	content/placeholder-text.md	/^# Vagus elidunt$/;"	c
+Vagus elidunt	themes/hugo-theme-minima/exampleSite/content/placeholder-text.md	/^# Vagus elidunt$/;"	c
+build	themes/hugo-theme-minima/Makefile	/^build:$/;"	t
+categories: ["Markdown", "KaTeX"]	content/math-typesetting.md	/^categories: ["Markdown", "KaTeX"]$/;"	s
+categories: ["Markdown", "KaTeX"]	themes/hugo-theme-minima/exampleSite/content/math-typesetting.md	/^categories: ["Markdown", "KaTeX"]$/;"	s
+categories: ["Markdown", "Mermaid"]	content/mermaid-graphs.md	/^categories: ["Markdown", "Mermaid"]$/;"	s
+categories: ["Markdown", "Mermaid"]	themes/hugo-theme-minima/exampleSite/content/mermaid-graphs.md	/^categories: ["Markdown", "Mermaid"]$/;"	s
+categories: ["Markdown"]	content/markdown-syntax.md	/^categories: ["Markdown"]$/;"	s
+categories: ["Markdown"]	themes/hugo-theme-minima/exampleSite/content/markdown-syntax.md	/^categories: ["Markdown"]$/;"	s
+clean	themes/hugo-theme-minima/Makefile	/^clean:$/;"	t
+comment: false	content/chinese.md	/^comment: false$/;"	s
+comment: false	themes/hugo-theme-minima/exampleSite/content/chinese.md	/^comment: false$/;"	s
+comment: true	content/instruction.md	/^comment: true$/;"	s
+comment: true	themes/hugo-theme-minima/exampleSite/content/instruction.md	/^comment: true$/;"	s
+dev	themes/hugo-theme-minima/Makefile	/^dev:$/;"	t
+disqus_thread	themes/hugo-theme-minima/layouts/partials/disqus.html	/^<div id="disqus_thread" class="my-8"><\/div>$/;"	I
+friends	themes/hugo-theme-minima/layouts/index.html	/^		<div id="friends"><\/div>$/;"	I
+ovo_thread	themes/hugo-theme-minima/layouts/partials/ovo.html	/^<div id="ovo_thread" class="my-8">$/;"	I
+source	themes/hugo-theme-minima/Makefile	/^source=exampleSite$/;"	m
+theme-switcher	themes/hugo-theme-minima/layouts/partials/header.html	/^    <div id="theme-switcher" class="text-4xl cursor-pointer">{{ index .Site.Params.switch 1 }}<\//;"	I
+themeDir	themes/hugo-theme-minima/Makefile	/^themeDir=..\/..$/;"	m
+type: about	content/about.md	/^type: about$/;"	s
+type: about	themes/hugo-theme-minima/exampleSite/content/about.md	/^type: about$/;"	s
+{{ .Data.Singular | title }} - "{{ .Data.Term }}"	themes/hugo-theme-minima/layouts/_default/list.html	/^	<h2 class="my-8">{{ .Data.Singular | title }} - "{{ .Data.Term }}"<\/h2>$/;"	i
+{{ .Site.Params.friends.title }}	themes/hugo-theme-minima/layouts/index.html	/^		<h3 class="my-6">{{ .Site.Params.friends.title }}<\/h3>$/;"	j
+{{ .Site.Params.iam }} {{ .Site.Author.name }}	themes/hugo-theme-minima/layouts/index.html	/^		<h2 class="mt-8 mb-1">{{ .Site.Params.iam }} {{ .Site.Author.name }}<\/h2>$/;"	i
+{{ .Site.Params.older }}	themes/hugo-theme-minima/layouts/index.html	/^		<h3 class="my-6">{{ .Site.Params.older }}<\/h3>$/;"	j
+{{ .Site.Params.recent }}	themes/hugo-theme-minima/layouts/index.html	/^		<h3 class="my-6">{{ .Site.Params.recent }}<\/h3>$/;"	j
+{{ .Title }}	themes/hugo-theme-minima/layouts/_default/list.html	/^	<h2 class="my-8">{{ .Title }}<\/h2>$/;"	i
+{{ .Title }}	themes/hugo-theme-minima/layouts/_default/single.html	/^<h1 class="mt-6 mb-6">{{ .Title }}<\/h1>$/;"	h
+{{ .Title }}	themes/hugo-theme-minima/layouts/_default/terms.html	/^  <h2>{{ .Title }}<\/h2>$/;"	i
+三级标题	content/chinese.md	/^### 三级标题$/;"	S
+三级标题	themes/hugo-theme-minima/exampleSite/content/chinese.md	/^### 三级标题$/;"	S
+主题配置	themes/hugo-theme-minima/docs/README_CN.md	/^### 主题配置$/;"	S
+二级标题	content/chinese.md	/^## 二级标题$/;"	s
+二级标题	themes/hugo-theme-minima/exampleSite/content/chinese.md	/^## 二级标题$/;"	s
+使用	themes/hugo-theme-minima/docs/README_CN.md	/^## 使用$/;"	s
+功能	themes/hugo-theme-minima/docs/README_CN.md	/^## 功能$/;"	s
+反馈	themes/hugo-theme-minima/docs/README_CN.md	/^### 反馈$/;"	S
+外部链接	themes/hugo-theme-minima/docs/README_CN.md	/^### 外部链接$/;"	S
+安装	themes/hugo-theme-minima/docs/README_CN.md	/^### 安装$/;"	S
+文章配置	themes/hugo-theme-minima/docs/README_CN.md	/^### 文章配置$/;"	S
